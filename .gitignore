@@ -1,0 +1,31 @@
+# ─── Compiled object files ───────────────────────────────────────────────────
+*.o
+*.obj
+
+# ─── Compiled binary / executable ────────────────────────────────────────────
+tcp_sim
+tcp_sim.exe
+a.out
+
+# ─── Build artifacts ──────────────────────────────────────────────────────────
+*.d
+*.so
+*.a
+*.lib
+
+# ─── IDE-specific folders ────────────────────────────────────────────────────
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── OS-specific files ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Dependency / debug output ───────────────────────────────────────────────
+*.log
+*.out
