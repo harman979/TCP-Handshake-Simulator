@@ -5,6 +5,8 @@
 # ─── Compiled binary / executable ────────────────────────────────────────────
 tcp_sim
 tcp_sim.exe
+test_unit
+test_unit.exe
 a.out
 
 # ─── Build artifacts ──────────────────────────────────────────────────────────
